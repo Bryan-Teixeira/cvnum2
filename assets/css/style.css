@@ -1,0 +1,27 @@
+html{
+    scroll-behavior: smooth;
+}
+
+.img{
+    text-shadow:0 0 20px #00FFFC,2px 3px 3px #141414, 0 0 100px #00D4D1;color:#00FFFC;
+}
+
+body{   
+    background-color: beige;
+}
+
+header{
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    border: solid;
+    border-width: 3px 3px 3px 3px;
+    border-color: rgb(0, 174, 255);
+    
+
+}
+
+footer{
+
+
+}
